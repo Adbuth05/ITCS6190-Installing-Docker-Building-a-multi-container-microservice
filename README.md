@@ -107,3 +107,19 @@ Go to:
 http://localhost:8000
 
 Each refresh will increase the counter.
+
+**What I Learned**
+
+1.How to install and verify Docker Desktop.
+
+2.How to pull and run container images from Docker Hub.
+
+3.How to containerize a Python Flask web app using a Dockerfile.
+
+4.How to define and connect multiple services using Docker Compose.
+
+5.How Redis can be used as a simple caching layer.
+
+6.How to monitor and manage containers through Docker Desktop.
+
+7.How to debug common Docker issues (import errors, image pull failures, service startup delays).
